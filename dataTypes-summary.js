@@ -106,4 +106,4 @@ const myFunction = function(){
 console.log(typeof myFunction);
 myFunction();
 
-
+// so, myFunction() -> output ->Hey, Harsh
