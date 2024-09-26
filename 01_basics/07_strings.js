@@ -1,1 +1,2 @@
 //strings
+console.log("Strings");
