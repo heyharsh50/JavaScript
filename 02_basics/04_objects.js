@@ -73,9 +73,33 @@ const user = [
     }
 ]
 
-console.log(tinderUser);
+/*console.log(tinderUser);
 
 console.log(Object.keys(tinderUser));
 console.log(Object.values(tinderUser));
 console.log(Object.entries(tinderUser));
-console.log(tinderUser.hasOwnProperty('isLoggedIn'));
+console.log(tinderUser.hasOwnProperty('isLoggedIn'));*/
+
+const facebook = [
+    {
+        id: 2102,
+        name: "Harsh",
+    },
+
+    {
+        id: 2132,
+        name: "Yuvraj",
+    },
+
+    {
+        id: 2402,
+        name: "Saurabh",
+    }
+
+]
+
+console.log(facebook);
+console.log(facebook['id']);
+console.log(facebook.id);
+
+// de structuring of both array and objects
